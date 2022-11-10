@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritchy7
+- 👋 Hi, I’m @0x726974636879
 - 👀 I am interested in development and cloud
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on fun projects
