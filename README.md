@@ -3,6 +3,7 @@
 - 👀 I am interested in development and cloud
 - 💞️ I’m looking to collaborate on fun projects
 
+<p align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritchyb/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11183832/0x726974636879) 
 
@@ -15,5 +16,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
